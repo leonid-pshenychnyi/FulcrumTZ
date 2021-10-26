@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fulcrum.Data", "Fulcrum.Data\Fulcrum.Data.csproj", "{474F40E9-F71D-474E-B28A-C246A754A380}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fulcrum.ConsoleView", "Fulcrum.ConsoleView\Fulcrum.ConsoleView.csproj", "{7AAF3A3D-2A8E-4A84-AAED-CA16F701AF3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{474F40E9-F71D-474E-B28A-C246A754A380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{474F40E9-F71D-474E-B28A-C246A754A380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{474F40E9-F71D-474E-B28A-C246A754A380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{474F40E9-F71D-474E-B28A-C246A754A380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AAF3A3D-2A8E-4A84-AAED-CA16F701AF3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AAF3A3D-2A8E-4A84-AAED-CA16F701AF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AAF3A3D-2A8E-4A84-AAED-CA16F701AF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AAF3A3D-2A8E-4A84-AAED-CA16F701AF3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\pshen\RiderProjects\Fulcrum\Fulcrum.Data\bin\Debug\net5.0\Fulcrum.Data.deps.json
+C:\Users\pshen\RiderProjects\Fulcrum\Fulcrum.Data\bin\Debug\net5.0\Fulcrum.Data.dll
+C:\Users\pshen\RiderProjects\Fulcrum\Fulcrum.Data\bin\Debug\net5.0\ref\Fulcrum.Data.dll
+C:\Users\pshen\RiderProjects\Fulcrum\Fulcrum.Data\bin\Debug\net5.0\Fulcrum.Data.pdb
+C:\Users\pshen\RiderProjects\Fulcrum\Fulcrum.Data\obj\Debug\net5.0\Fulcrum.Data.csproj.AssemblyReference.cache
+C:\Users\pshen\RiderProjects\Fulcrum\Fulcrum.Data\obj\Debug\net5.0\Fulcrum.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pshen\RiderProjects\Fulcrum\Fulcrum.Data\obj\Debug\net5.0\Fulcrum.Data.AssemblyInfoInputs.cache
+C:\Users\pshen\RiderProjects\Fulcrum\Fulcrum.Data\obj\Debug\net5.0\Fulcrum.Data.AssemblyInfo.cs
+C:\Users\pshen\RiderProjects\Fulcrum\Fulcrum.Data\obj\Debug\net5.0\Fulcrum.Data.csproj.CoreCompileInputs.cache
+C:\Users\pshen\RiderProjects\Fulcrum\Fulcrum.Data\obj\Debug\net5.0\Fulcrum.Data.dll
+C:\Users\pshen\RiderProjects\Fulcrum\Fulcrum.Data\obj\Debug\net5.0\ref\Fulcrum.Data.dll
+C:\Users\pshen\RiderProjects\Fulcrum\Fulcrum.Data\obj\Debug\net5.0\Fulcrum.Data.pdb
