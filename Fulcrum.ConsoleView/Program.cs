@@ -1,12 +1,17 @@
-﻿using System;
+﻿using Fulcrum.ConsoleView.Selector;
 
 namespace Fulcrum.ConsoleView
 {
-    static class Program
+    internal static class Program
     {
-        static void Main()
+        private static void Main()
         {
-            var selects = new OptionSelects.OptionSelects();
+            var selects =
+                new OptionSelects.OptionSelects(
+                    new BaseSelector(),
+                    new TopicSelector(),
+                    new AddTopicSelector(),
+                    new AddWordSelector());
             var run = true;
             while (run)
             {
